@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.struts2.MYECLIPSE_STRUTS21_CORE"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/spring-beans.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/spring-context.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/spring-core.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/commons-attributes-api.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/commons-attributes-compiler.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="F:/jar/springmybaits/com.springsource.com.ibatis-2.3.4.726.jar"/>
+	<classpathentry kind="lib" path="F:/jar/springmybaits/commons-collections.jar"/>
+	<classpathentry kind="lib" path="F:/jar/springmybaits/mybatis-3.2.3.jar"/>
+	<classpathentry kind="lib" path="F:/jar/springmybaits/mybatis-spring-1.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/jar/log4j/commons-logging.jar"/>
+	<classpathentry kind="lib" path="F:/jar/log4j/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="F:/jar/springstruts2/spring.jar"/>
+	<classpathentry kind="lib" path="F:/jar/springstruts2/struts2-spring-plugin-2.1.6.jar"/>
+	<classpathentry kind="lib" path="F:/jar/dbcp/commons-dbcp.jar"/>
+	<classpathentry kind="lib" path="F:/jar/dbcp/commons-pool.jar"/>
+	<classpathentry kind="lib" path="F:/jar/spring/com.springsource.org.apache.commons.collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/jar/spring/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="F:/jar/spring/com.springsource.org.apache.log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="F:/jar/spring/org.springframework.asm-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/jar/spring/org.springframework.beans-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/jar/spring/org.springframework.context-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/jar/spring/org.springframework.core-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/jar/spring/org.springframework.expression-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/jar/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="F:/jar/fastjson/fastjson.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>

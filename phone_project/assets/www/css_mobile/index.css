@@ -1,0 +1,167 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+	font-family:"microsoft yahei";
+	font-size: 14px;
+	width: 100%;
+}
+ul,li{
+	list-style: none;
+}
+a,a:hover,a:visited{
+	text-decoration: none;
+}
+.clear{
+	clear: both;
+}
+
+ .ppt, .li{
+    width: 380px;
+    height: 150px;
+}
+
+.ppt{
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden;
+}
+
+.ppt-con{
+    width: 1140px;
+    height: 150px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.li{
+    float: left;
+}
+
+.li:nth-child(1){
+    background: url("../img_mobile/mobile_lun1.png") center center no-repeat;
+    
+}
+
+.li:nth-child(2){
+    background: url("../img_mobile/mobile_lun2.png") center center no-repeat;
+} 
+
+.li:nth-child(3){
+    background: url("../img_mobile/mobile_lun3.png") center center no-repeat;
+}
+
+.show{
+   display: block; 
+}
+
+.cicles{
+	/* border:1px solid white; */
+    width: 30px;
+    height: 5px;
+    position: absolute;
+    left: 46%;
+    bottom: 6px;
+}
+
+.cc{
+    width: 5px;
+    height: 5px;
+    border-radius: 2.5px;
+    -webkit-border-radius:2.5px;
+    margin-left:.2rem;
+    
+    background: #CCC;
+    float: left;
+}
+
+.h{
+    background: #333;
+} 
+.middle_content{
+	width: 100%;
+	margin: 0 20%;
+	/*background: #ccc;*/
+}
+
+.title{
+	 margin-left:-8rem; 
+	/* border:1px solid black; */
+	margin-top:3rem;
+	text-align: center;
+}
+.title_text{
+	font-size: 1.5rem;
+	color: #7a7a7a;
+}
+.des{
+	font-size: .9rem;
+	margin: 1rem auto;
+	color: #7a7a7a;
+}
+.logo{
+	width: 70px;
+	margin-top: 14px;
+}
+.pic{
+	width: 60px;
+}
+.main_pic{
+	float: left;
+	width: 100%;
+}
+
+.all_pic{
+	float: left;
+	width: 100%;
+	margin-left:-2.5rem;
+	margin-top:0rem;
+}
+.all_pic li{
+	float: left;
+	margin-left: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+.pic_name{
+	display: block;
+	text-align: center;
+	font-size: .8rem;
+	color: #7a7a7a;
+	margin: 10px;
+}
+
+.footer{
+	width: 100%;
+}
+.footer_title{
+	margin-left:1rem;
+	margin-top:2rem;
+	text-align: center;
+}
+.footertitle_text{
+	font-size: 1.2rem;
+	color: #7a7a7a;
+}
+.title_text{
+	display: block;
+	text-align: center;
+	margin: 0 auto;
+}
+.touxiang_ul{
+	width: 100%;
+	float: left;
+	margin: 0 auto;
+	margin-left:1.3rem;
+}
+.exe_touxiang{
+	float: left;
+	margin: 10px 5%;
+}
+.exe_touxiang img{
+	width: 45px;
+	opacity: 0.7;
+}
